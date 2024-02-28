@@ -4,7 +4,7 @@
   "description": "Um Clone da página tabnews.com.br feito no curso curso.dev do Filipe Deschamps @filipedeschamps",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "@wenblack",
   "license": "MIT",
